@@ -1,0 +1,101 @@
+<resources>
+
+    <string name="app_name">Tour Guide</string>
+
+    <string name="historical_places">Historical Places</string>
+
+    <string name="restaurant">Restaurant</string>
+
+    <string name="caffee">Caffee</string>
+
+    <string name="cinema">Cinema</string>
+
+    <string name="old_town">Old Town</string>
+
+    <string name="aswna">Aswan</string>
+
+    <string name="al_qasr">Al-Qasr</string>
+
+    <string name="faiyum">Faiyum</string>
+
+    <string name="dahab">Dahab</string>
+
+    <string name="wadi_el_natrun">Wadi El-Natrun</string>
+
+    <string name="luxor">Luxor</string>
+
+    <string name="old_town_desc">old quarters of Cairo</string>
+
+    <string name="aswna_desc">ancient town of Swenett</string>
+
+    <string name="al_qasr_desc">medieval town built by the Ottomans</string>
+
+    <string name="faiyum_desc">oldest towns in Egypt</string>
+
+    <string name="dahab_desc">the coast of the Sinai Peninsula</string>
+
+    <string name="wadi_el_natrun_desc">far from a typical town</string>
+
+    <string name="luxor_desc">the city dominated by the incredible ruins of the Pharaonic Age</string>
+
+    <string name="peppermint">Peppermint</string>
+
+    <string name="nisantasi">Nişantaşi</string>
+
+    <string name="esplanade">Esplanade Cafe Restaurant</string>
+
+    <string name="indira">Indira Indian Restaurant</string>
+
+    <string name="peppermint_desc">International, Sushi</string>
+
+    <string name="nisantasi_desc">Turkish, Mediterranean</string>
+
+    <string name="esplanade_desc">Mediterranean, Europe</string>
+
+    <string name="indira_desc">Indian, Asian, Healthy</string>
+
+    <string name="left_bank">Left Bank</string>
+
+    <string name="cake_cafe">Cake Cafe</string>
+
+    <string name="cafe_corniche">Cafe Corniche</string>
+
+    <string name="kafein">Kafein</string>
+
+    <string name="fresco_bakery">Fresco Bakery</string>
+
+    <string name="left_bank_desc">the greatest weapon is knowledge</string>
+
+    <string name="cake_cafe_desc">new oriental seating area</string>
+
+    <string name="cafe_corniche_desc"> is right by the Nile river</string>
+
+    <string name="kafein_desc">Best Place</string>
+
+    <string name="fresco_bakery_desc">Blueberry velvet</string>
+
+    <string name="san_stefano">San Stefano Cinema</string>
+
+    <string name="vox">VOX Cinemas City Centre Alexandria</string>
+
+    <string name="deeb">Deeb mall cinema</string>
+
+    <string name="cine_plus">CINE PLUS</string>
+
+    <string name="cine_plex">Cine Plex</string>
+
+    <string name="kiroseiz">Kiroseiz Cinema</string>
+
+    <string name="san_stefano_desc">Qism El-Raml · In the San Stefano</string>
+
+    <string name="vox_desc">Al Amaria First · In City Centre Alexandria</string>
+
+    <string name="deeb_desc">Good for kids</string>
+
+    <string name="cine_plus_desc">Miami</string>
+
+    <string name="cine_plex_desc">Sidi Gaber</string>
+
+    <string name="kiroseiz_desc">Al Attarin</string>
+
+</resources>
